@@ -1,0 +1,61 @@
+body{
+    background-color: #E9ECEF;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    background-color: darkslategray;
+}
+
+li{
+    float: left;
+    padding: 20px;
+    text-align: center;
+    background-color: darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.jumbotron{
+    min-height: 1500px;
+}
+
+a:link{
+    text-decoration: none;
+    color: bisque;
+}
+
+a:visited{
+    text-decoration: none;
+    color: bisque;
+}
+
+a:hover{
+    text-decoration: none;
+    color: bisque;
+}
+
+a:active{
+    text-decoration: none;
+    color: bisque;
+}
+
+li:hover{
+    background-color: black;
+}
+
+.card{
+    margin: 20px 10px 20px;
+}
+
+nav{
+    margin-bottom: 100px;
+}
+
+h1{
+    text-align: center;
+    color: darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
